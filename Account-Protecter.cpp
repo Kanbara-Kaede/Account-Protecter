@@ -19,9 +19,9 @@ int main() {
 	while(true) {
 		system("start D:\\EXEstart.bat");	//打开启动程序的 Windows批处理文件(.bat)，名称和目录请自行修改 
 //		system("start D:\\EXE-start-HIDE.vbs");
-		_sleep(10*1000);					//等待时间调制器 
+		_sleep(10*1000);					//等待时间控制器 
 		system("start D:\\EXEstop.bat");	//打开结束程序的 Windows批处理文件(.bat)，名称和目录请自行修改 
-		_sleep(5*1000);						//等待时间调制器 
+		_sleep(5*1000);						//等待时间控制器 
 	}
 	return 0;
 }
