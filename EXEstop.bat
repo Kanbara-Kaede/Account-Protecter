@@ -1,3 +1,3 @@
 @echo off
-taskkill /f /im ClassIn.exe
+taskkill /f /im pcs.exe
 exit
