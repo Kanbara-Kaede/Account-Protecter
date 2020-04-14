@@ -1,4 +1,4 @@
-//------------------±¾´úÂëÓÉUstinianX±àĞ´£¬½ûÖ¹Ê¹ÓÃÓÚÉÌÒµÓÃÍ¾------------------
+//------------------æœ¬ä»£ç ç”±UstinianXç¼–å†™ï¼Œç¦æ­¢ä½¿ç”¨äºå•†ä¸šç”¨é€”------------------
 #include<iostream>
 #include<cstdio>
 #include<cstdlib>
@@ -9,20 +9,20 @@
 #include<windows.h>
 using namespace std;
 int main() {
-	cout<<"------------------±¾´úÂëÓÉUstinianX±àĞ´£¬½ûÖ¹Ê¹ÓÃÓÚÉÌÒµÓÃÍ¾------------------" <<endl;
+	cout<<"------------------æœ¬ä»£ç ç”±UstinianXç¼–å†™ï¼Œç¦æ­¢ä½¿ç”¨äºå•†ä¸šç”¨é€”------------------" <<endl;
 	cout<<"Account-Protecter           Designed by UstinianX"<<endl;
-	cout<<"°æ±¾£ºV1.0 ÕıÊ½°æ"<<endl;
-	cout<<"ÁªÏµ¿ª·¢Õß£º"<<"E-mail£ºustinianx@outlook.com" <<" "<<" "<<" "<<"QQ£º3069862258"<<endl;
-	cout<<"´Ë³ÌĞòÄ¿Ç°Ö»¿ª·¢ÓĞWindows°æ±¾£¬ÆäËûÏµÍ³°æ±¾Çë¼ÌĞøµÈ´ı"<<endl;
-	MessageBox(NULL,"¿ª·¢Õß£ºUstinianX","Account-Protecter",MB_OK);
-	MessageBox(NULL,"°æ±¾ºÅ£ºV1.0 ÕıÊ½°æ","Account-Protecter",MB_OK);
+	cout<<"ç‰ˆæœ¬ï¼šV1.0 æ­£å¼ç‰ˆ"<<endl;
+	cout<<"è”ç³»å¼€å‘è€…ï¼š"<<"E-mailï¼šustinianx@outlook.com" <<" "<<" "<<" "<<"QQï¼š3069862258"<<endl;
+	cout<<"æ­¤ç¨‹åºç›®å‰åªå¼€å‘æœ‰Windowsç‰ˆæœ¬ï¼Œå…¶ä»–ç³»ç»Ÿç‰ˆæœ¬è¯·ç»§ç»­ç­‰å¾…"<<endl;
+	MessageBox(NULL,"å¼€å‘è€…ï¼šUstinianX","Account-Protecter",MB_OK);
+	MessageBox(NULL,"ç‰ˆæœ¬å·ï¼šV1.0 æ­£å¼ç‰ˆ","Account-Protecter",MB_OK);
 	while(true) {
-		system("start D:\\XESstart.bat");	//´ò¿ªÆô¶¯³ÌĞòµÄ WindowsÅú´¦ÀíÎÄ¼ş(.bat)£¬Ãû³ÆºÍÄ¿Â¼Çë×ÔĞĞĞŞ¸Ä 
+		system("start D:\\EXEstart.bat");	//æ‰“å¼€å¯åŠ¨ç¨‹åºçš„ Windowsæ‰¹å¤„ç†æ–‡ä»¶(.bat)ï¼Œåç§°å’Œç›®å½•è¯·è‡ªè¡Œä¿®æ”¹ 
 //		system("start D:\\EXE-start-HIDE.vbs");
-		_sleep(10*1000);					//µÈ´ıÊ±¼äµ÷ÖÆÆ÷ 
-		system("start D:\\XESstop.bat");	//´ò¿ª½áÊø³ÌĞòµÄ WindowsÅú´¦ÀíÎÄ¼ş(.bat)£¬Ãû³ÆºÍÄ¿Â¼Çë×ÔĞĞĞŞ¸Ä 
-		_sleep(5*1000);						//µÈ´ıÊ±¼äµ÷ÖÆÆ÷ 
+		_sleep(10*1000);					//ç­‰å¾…æ—¶é—´è°ƒåˆ¶å™¨ 
+		system("start D:\\EXEstop.bat");	//æ‰“å¼€ç»“æŸç¨‹åºçš„ Windowsæ‰¹å¤„ç†æ–‡ä»¶(.bat)ï¼Œåç§°å’Œç›®å½•è¯·è‡ªè¡Œä¿®æ”¹ 
+		_sleep(5*1000);						//ç­‰å¾…æ—¶é—´è°ƒåˆ¶å™¨ 
 	}
 	return 0;
 }
-//------------------±¾´úÂëÓÉUstinianX±àĞ´£¬½ûÖ¹Ê¹ÓÃÓÚÉÌÒµÓÃÍ¾------------------
+//------------------æœ¬ä»£ç ç”±UstinianXç¼–å†™ï¼Œç¦æ­¢ä½¿ç”¨äºå•†ä¸šç”¨é€”------------------
